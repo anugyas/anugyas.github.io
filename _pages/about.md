@@ -10,11 +10,11 @@ profile:
   image_circular: false # crops the image to make it circular
   more_info: >
     <center>
-    <a href='mailto:anugya.srivastava@cims.nyu.edu'><i class="fa-solid fa-envelope fa-xl"></i></a>
-    <a href='https://www.linkedin.com/in/anugyasrivastava/'><i class="fa-brands fa-linkedin fa-xl"></i></a>&nbsp;
-    <a href='https://github.com/anugyas'><i class="fa-brands fa-github fa-xl"></i></a>&nbsp;
-    <a href='https://scholar.google.com/citations?user=8hvQG6gAAAAJ&hl=en'><i class="ai ai-google-scholar ai-2x" style="vertical-align: bottom;"></i></a>&nbsp;
-    <a href='https://twitter.com/anugyas_'><i class="fa-brands fa-twitter fa-xl"></i></a>&nbsp;
+      <a href='https://www.linkedin.com/in/anugyasrivastava/'><i class="fa-brands fa-linkedin fa-xl"></i></a>&nbsp;
+      <a href='https://github.com/anugyas'><i class="fa-brands fa-github fa-xl"></i></a>&nbsp;
+      <a href='https://scholar.google.com/citations?user=8hvQG6gAAAAJ&hl=en'><i class="ai ai-google-scholar ai-2x" style="vertical-align: bottom;"></i></a>&nbsp;
+      <a href='https://twitter.com/anugyas_'><i class="fa-brands fa-twitter fa-xl"></i></a>&nbsp;
+      <a href='mailto:anugya.srivastava@cims.nyu.edu'><i class="fa-solid fa-envelope fa-xl"></i></a>
     </center>
 
 news: true  # includes a list of recent updates
