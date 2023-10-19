@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  address: >
+  more_info: >
     <center>
     <a href='mailto:anugya.srivastava@cims.nyu.edu'><i class="fa-solid fa-envelope fa-xl"></i></a>
     <a href='https://www.linkedin.com/in/anugyasrivastava/'><i class="fa-brands fa-linkedin fa-xl"></i></a>&nbsp;
