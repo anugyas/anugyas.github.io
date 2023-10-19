@@ -3,7 +3,7 @@ layout: page
 title: projects
 permalink: /projects/
 description: >
-              This page needs to be updated. In the interim, please checkout the linked pages for insight into my recent projects: 
+              This page needs to be updated. In the interim, please checkout the linked pages for insight into my recent projects - 
                 <a href='https://www.linkedin.com/in/anugyasrivastava/details/projects/'><i class="fa-brands fa-linkedin fa-xl"></i></a>&nbsp;
                 <a href='https://github.com/anugyas'><i class="fa-brands fa-github fa-xl"></i></a>&nbsp;
 nav: true
