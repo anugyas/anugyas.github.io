@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Anugya Srivastava",
-    "label": "Data Scientist | Machine Learning Engineer",
+    "roles": "Data Scientist | Machine Learning Engineer",
     "email": "anugya.srivastava@cims.nyu.edu",
     "summary": "Interesed in development and deployment of technology grounded in data and guided by public interest principles",
     "location": {
