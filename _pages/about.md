@@ -8,15 +8,15 @@ profile:
   align: right
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
-  more_info: >
+  address: >
     <center>
-      <a href='mailto:anugya.srivastava@cims.nyu.edu'><i class="fa-solid fa-envelope fa-xl"></i></a>
-      <a href='https://www.linkedin.com/in/anugyasrivastava/'><i class="fa-brands fa-linkedin fa-xl"></i></a>&nbsp;
-      <a href='https://github.com/anugyas'><i class="fa-brands fa-github fa-xl"></i></a>&nbsp;
-      <a href='https://scholar.google.com/citations?user=8hvQG6gAAAAJ&hl=en'><i class="ai ai-google-scholar ai-2x" style="vertical-align: bottom;"></i></a>&nbsp;
+    <a href='mailto:anugya.srivastava@cims.nyu.edu'><i class="fa-solid fa-envelope fa-xl"></i></a>
+    <a href='https://www.linkedin.com/in/anugyasrivastava/'><i class="fa-brands fa-linkedin fa-xl"></i></a>&nbsp;
+    <a href='https://github.com/anugyas'><i class="fa-brands fa-github fa-xl"></i></a>&nbsp;
+    <a href='https://scholar.google.com/citations?user=8hvQG6gAAAAJ&hl=en'><i class="ai ai-google-scholar ai-2x" style="vertical-align: bottom;"></i></a>&nbsp;
     </center>
 
-news: true  # includes a list of news items
+news: true  # includes a list of recent updates
 latest_posts: true  # includes a list of the newest posts
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
