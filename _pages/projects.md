@@ -2,7 +2,7 @@
 layout: page
 title: projects
 permalink: /projects/
-description: This page needs to be updated. In the interim, please check out the LinkedIn projects page for insight into some of my recent projects.
+description: This page needs to be updated. In the interim, for updated information about my recent projects click <a href='https://www.linkedin.com/in/anugyasrivastava/details/projects/'>here</a>.
 nav: true
 nav_order: 2
 display_categories: [work, fun]
