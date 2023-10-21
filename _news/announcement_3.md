@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined the [Causal ML Lab](https://www.dsridhar.com/) at MILA to study hetereogeneos treatment effects.
+Joined the [Causal ML Lab](https://www.dsridhar.com/) at MILA to study heterogeneous treatment effects.
