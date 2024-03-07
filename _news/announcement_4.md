@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2022-12-22 16:11:00-0400
+date: 2023-07-26 16:11:00-0400
 inline: true
 related_posts: false
 ---
 
-Completed my Masters! 👩🏽‍🎓  and accepted a full-time return offer from Amazon.
+Started working as a Data Scientist with [Prof. Jennifer Hill](https://steinhardt.nyu.edu/people/jennifer-hill) at [PRIISM](https://steinhardt.nyu.edu/priism)!
