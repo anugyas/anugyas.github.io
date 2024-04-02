@@ -23,6 +23,6 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
-Hi! I am Anugya Srivastava, a recent graduate with a Masters in Computer Science from the Courant Institute of Mathematical Sciences, NYU, where I primarily focused on honing my skills in developing intelligent information systems. I am currently working as a Data Scientist at PRIISM, the Center for Practice and Research at the Intersection of Information, Society, and Methodology.
+Hi! I am Anugya Srivastava, a Masters in Computer Science graduate from the Courant Institute of Mathematical Sciences, NYU. I have primarily focused on honing my skills in developing intelligent information systems and am eternally excited about building impactful data driven solutions.
 
-Prior to graduate school, I have worked at a couple of startups across the globe - Switzerland, India and USA - where I was responsible for building deep learning pipelines for high dimensional data, for use cases ranging from efficient annotation generation to activity detection and 3D reconstruction.
+Prior to graduate school, I have worked at a couple of startups across the globe - USA, Switzerland and India - where I was part of machine learning teams and helped build AI models using low and high dimensional data, for use cases ranging from 3D virtual models of cities to optimizing warehouse management systems.
